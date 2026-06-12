@@ -17,7 +17,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_11_compute IMPLEMENTATION.
+CLASS ZCL_11_COMPUTE IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

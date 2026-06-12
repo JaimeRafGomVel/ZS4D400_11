@@ -14,7 +14,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_11_local_class IMPLEMENTATION.
+CLASS ZCL_11_LOCAL_CLASS IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

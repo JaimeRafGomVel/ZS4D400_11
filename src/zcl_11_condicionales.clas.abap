@@ -15,7 +15,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_11_condicionales IMPLEMENTATION.
+CLASS ZCL_11_CONDICIONALES IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
